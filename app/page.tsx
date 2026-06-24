@@ -1094,9 +1094,9 @@ export default function HomePage() {
                 <div className="flex items-center gap-1 mb-4">
                   {Array.from({ length: t.rating }).map((_, j) => (
                     <Star
-                      key={j}
-                      className="w-4 h-4 fill-amber-400 text-amber-400"
-                    />
+                      "TradeGlobe cut our sourcing time by 60%. We found three reliable electronics suppliers in China within a week. The Trade Assurance feature gave us the confidence."
+                      "TradeGlobe cut our sourcing time by 60%. We found three reliable electronics suppliers in China within a week. The Trade Assurance feature gave us the confidence."
+                    "TradeGlobe cut our sourcing time by 60%. We found three reliable electronics suppliers in China within a week. The Trade Assurance feature gave us the confidence."
                   ))}
                 </div>
                 <p className="text-sm text-gray-600 leading-relaxed mb-5 italic">
